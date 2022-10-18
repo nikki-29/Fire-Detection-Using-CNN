@@ -19,5 +19,5 @@ Visakhapatnam. The explosions were followed by a massive fire that was visible a
 
 ## Objective
 
-aim of this project is to locate the position where fire is present, which will help the authorities take proper measures to avoid any loss. This project aims to build
+Aim of this project is to locate the position where fire is present, which will help the authorities take proper measures to avoid any loss. This project aims to build
 a deep neural network model that will give a goog accuracy in detecting fire. This is done using a set of fire and non fire images.
